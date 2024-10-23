@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "jWtTokenWebApi.Controllers.AuthController",
+    "Method": "GetToken",
+    "RelativePath": "api/Auth/GetToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authRequest",
+        "Type": "jWtTokenWebApi.Models.AuthRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "jWtTokenWebApi.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Auth/RefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authRefreshRequest",
+        "Type": "jWtTokenWebApi.Models.AuthRefreshRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

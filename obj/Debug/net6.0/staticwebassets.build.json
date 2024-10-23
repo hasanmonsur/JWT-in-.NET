@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EyiZf12SBNW0AqqoOX7/GXUAEoItmUS1wgfO5z+0gnQ=",
+  "Source": "APIGATEWAYSEC",
+  "BasePath": "_content/APIGATEWAYSEC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

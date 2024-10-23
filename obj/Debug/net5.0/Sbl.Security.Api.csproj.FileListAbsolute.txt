@@ -1,0 +1,233 @@
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.AssemblyInfoInputs.cache
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.AssemblyInfo.cs
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.csproj.CoreCompileInputs.cache
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\appsettings.json
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.exe
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.deps.json
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.runtimeconfig.json
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.runtimeconfig.dev.json
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\ref\Sbl.Security.Api.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.pdb
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\IdentityModel.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\IdentityServer4.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\IdentityServer4.Storage.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.csprojAssemblyReference.cache
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\staticwebassets\Sbl.Security.Api.StaticWebAssets.Manifest.cache
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\staticwebassets\Sbl.Security.Api.StaticWebAssets.xml
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\scopedcss\bundle\Sbl.Security.Api.styles.css
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.RazorTargetAssemblyInfo.cache
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.csproj.CopyComplete
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\ref\Sbl.Security.Api.dll
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.pdb
+D:\.Net Core\API gateway\APIGETWAY2020\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.genruntimeconfig.cache
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\appsettings.json
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.exe
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.deps.json
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.runtimeconfig.json
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.runtimeconfig.dev.json
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\ref\Sbl.Security.Api.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.pdb
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\IdentityModel.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\IdentityServer4.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\IdentityServer4.Storage.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.csprojAssemblyReference.cache
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.AssemblyInfoInputs.cache
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.AssemblyInfo.cs
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.csproj.CoreCompileInputs.cache
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\staticwebassets\Sbl.Security.Api.StaticWebAssets.Manifest.cache
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\staticwebassets\Sbl.Security.Api.StaticWebAssets.xml
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\scopedcss\bundle\Sbl.Security.Api.styles.css
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.RazorTargetAssemblyInfo.cache
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.csproj.CopyComplete
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\ref\Sbl.Security.Api.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.pdb
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.genruntimeconfig.cache
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\coffeemarket\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.AssemblyInfoInputs.cache
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.AssemblyInfo.cs
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.csproj.CoreCompileInputs.cache
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\ref\Sbl.Security.Api.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.pdb
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\appsettings.json
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.exe
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.deps.json
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.runtimeconfig.json
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.runtimeconfig.dev.json
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\ref\Sbl.Security.Api.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Sbl.Security.Api.pdb
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\IdentityModel.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\IdentityServer4.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\IdentityServer4.Storage.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\staticwebassets\Sbl.Security.Api.StaticWebAssets.Manifest.cache
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\staticwebassets\Sbl.Security.Api.StaticWebAssets.xml
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.RazorTargetAssemblyInfo.cache
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.csproj.CopyComplete
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.genruntimeconfig.cache
+D:\API GATEWAY-EXT\coffeemarket\Sbl.Security.Api\obj\Debug\net5.0\Sbl.Security.Api.csproj.AssemblyReference.cache
